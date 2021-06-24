@@ -1,0 +1,21 @@
+{
+    "model_params": {
+        "MODEL_SELECT": 9,
+        "NUM_SPOOF_CLASS": 2,
+        "lam": 0.005,
+        "inp_w": 400,
+        "inp_h": 432,
+        "width_coefficient": 0.25,
+        "depth_coefficient": 0.2,
+        "perc_type": "seres",
+        "feat_dim": 128
+    },
+    "training_params": {
+        "batch_size": 4,
+        "test_batch_size": 32,
+        "epochs": 40,
+        "start_epoch": 1,
+        "n_warmup_steps": 1000,
+        "log_interval": 30
+    }
+}

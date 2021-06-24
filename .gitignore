@@ -109,6 +109,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+msc_rostami
 
 # Spyder project settings
 .spyderproject
@@ -127,3 +128,15 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#directories
+exp/
+data/
+logs/
+model_snapshots/
+raw_feats/
+scoring/
+
+#other files
+log.txt
+
