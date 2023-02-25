@@ -65,6 +65,6 @@ Feel free to contact us for any further information via below channels.
 ### Mohammad Mehdi Homayounpour
 - email: [*homayoun@aut.ac.ir*](homayounaut@aut.ac.ir)
 - homepage: [*homayounpour*](https://aut.ac.ir/cv/2571/محمدمهدی-همایون-پور?slc_lang=fa&&cv=2571&mod=scv)
-### Mohammad Mehdi Homayounpour
+### Ahmad Nickabadi
 - email: [*nickabadi@aut.ac.ir*](nickabadi@aut.ac.ir)
 - homepage: [*nickabadi*](https://aut.ac.ir/cv/2387/%d8%a7%d8%ad%d9%85%d8%af%20%d9%86%db%8c%da%a9%20%d8%a2%d8%a8%d8%a7%d8%af%db%8c)
